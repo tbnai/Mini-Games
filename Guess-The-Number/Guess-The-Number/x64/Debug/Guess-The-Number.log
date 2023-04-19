@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Mini-Games\Guess-The-Number\Guess-The-Number\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Guess-The-Number.vcxproj -> C:\Mini-Games\Guess-The-Number\x64\Debug\Guess-The-Number.exe
