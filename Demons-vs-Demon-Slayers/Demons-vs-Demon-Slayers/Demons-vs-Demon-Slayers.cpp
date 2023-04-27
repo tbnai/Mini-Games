@@ -51,9 +51,21 @@ public:
 int main()
 {
 	Demon D1("Muzan", 150, 30, 50);
-	D1.Intro();
+//	D1.Intro();
 
 	DemonSlayer DS1("Tanjiro", 100, 10, 60);
-	DS1.Intro();
+//	DS1.Intro();
 
+	int charact;
+
+
+	cout << "Choose your character!" << endl;
+	cout << "Press 0 for Muzan || Press 1 for Tanjiro" << endl;
+	cin >> charact;
+	if (charact == 0) {
+		D1.Intro();
+	}
+	else if (charact == 1) {
+		DS1.Intro();
+	}
 }
