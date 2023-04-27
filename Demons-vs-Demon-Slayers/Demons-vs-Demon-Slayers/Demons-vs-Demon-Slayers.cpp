@@ -57,8 +57,15 @@ int main()
 //	DS1.Intro();
 
 	int charact;
+	int players;
+	int player1;
+	int player2;
 
+	// How many players are playing //
+	cout << "Press 0 for Single Player || Press 1 for Two Players " << endl;
+	cin >> players;
 
+	// Choosing a class // 
 	cout << "Choose your character!" << endl;
 	cout << "Press 0 for Muzan || Press 1 for Tanjiro" << endl;
 	cin >> charact;
@@ -68,4 +75,6 @@ int main()
 	else if (charact == 1) {
 		DS1.Intro();
 	}
+
+
 }
