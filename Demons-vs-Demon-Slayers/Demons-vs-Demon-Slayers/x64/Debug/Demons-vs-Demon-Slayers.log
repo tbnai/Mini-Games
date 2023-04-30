@@ -1,2 +1,4 @@
 ﻿  Demons-vs-Demon-Slayers.cpp
+C:\Mini-Games\Demons-vs-Demon-Slayers\Demons-vs-Demon-Slayers\Demons-vs-Demon-Slayers.cpp(62,6): warning C4101: 'player2': unreferenced local variable
+C:\Mini-Games\Demons-vs-Demon-Slayers\Demons-vs-Demon-Slayers\Demons-vs-Demon-Slayers.cpp(61,6): warning C4101: 'player1': unreferenced local variable
   Demons-vs-Demon-Slayers.vcxproj -> C:\Mini-Games\Demons-vs-Demon-Slayers\x64\Debug\Demons-vs-Demon-Slayers.exe
